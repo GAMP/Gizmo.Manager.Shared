@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<LangVersion>latest</LangVersion>
+		<RootNamespace>Gzimo.Manager</RootNamespace>
+		<PackageProjectUrl>https://www.gizmopowered.net/</PackageProjectUrl>
+		<SignAssembly>false</SignAssembly>
+		<RepositoryUrl>https://github.com/GAMP/Gizmo.Manager.Shared</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<Authors>NETProjects</Authors>
+		<Company>NETProjects</Company>
+		<Product>Gizmo</Product>
+		<Description>Gizmo Manager shared code library.</Description>
+		<Copyright>NETProjects</Copyright>
+		<RepositoryType>git</RepositoryType>
+		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+		<IncludeSymbols>true</IncludeSymbols>
+		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
+		<PackageIcon>package_icon.png</PackageIcon>
+		<Version>1.0.0.0</Version>
+	</PropertyGroup>
+
+</Project>

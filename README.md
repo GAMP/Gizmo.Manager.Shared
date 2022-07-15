@@ -1,0 +1,2 @@
+# Gizmo.Manager.Shared
+ 
